@@ -16,4 +16,5 @@ class AccountController extends GetxController {
     currentUser.value = null;
     isLoggedIn.value = false;
   }
+
 }
